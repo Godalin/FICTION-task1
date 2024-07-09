@@ -8,3 +8,4 @@ For each task file (`task<i>-<j>`), check the reachability of `reach_error()` st
 + Roberto Baldoni, Emilio Coppa, Daniele Cono D’elia, Camil Demetrescu, and Irene Finocchi. 2018. A Survey of Symbolic Execution Techniques. ACM Comput. Surv. 51, 3, Article 50 (May 2019), 39 pages. https://doi.org/10.1145/3182657
 + D. Kroening and O. Strichman. Decision Procedures.
 + Dennis Yurichev. SAT/SMT by Example.
++ [Documents of all plugins.](https://frama-c.com/html/documentation.html)
